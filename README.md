@@ -33,7 +33,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Project Overview
+## Project Overview
+
 Cycorp Trial is a web application built using Next.js, demonstrating the framework's capabilities in server-side rendering (SSR) and static site generation (SSG). The project aims to showcase Next.js features such as dynamic routing, API routes, and pre-rendering. It includes components, pages, and API endpoints to illustrate how a Next.js application can be structured and developed for efficient and scalable web solutions.
 
 Features:
