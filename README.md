@@ -1,6 +1,71 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+### Project Title: Cycorp Trial
+
+#### Description
+Cycorp Trial is a web application built using Next.js, designed to demonstrate the framework's capabilities in server-side rendering (SSR) and static site generation (SSG). The project showcases various Next.js features such as dynamic routing, API routes, and pre-rendering, providing a robust and scalable solution for modern web development.
+
+#### Features
+- **Server-Side Rendering (SSR):** Efficiently renders pages on the server for better SEO and initial load performance.
+- 
+- **Static Site Generation (SSG):** Pre-renders pages at build time for fast delivery and improved performance.
+- 
+- **Dynamic Routing:** Demonstrates the use of dynamic routing to create flexible and scalable page structures.
+- 
+- **API Routes:** Includes API endpoints to handle server-side logic and data fetching.
+
+#### Project Structure
+- **pages/:** Contains Next.js pages for routing.
+- **public/:** Static files and assets.
+- **components/:** Reusable React components.
+- **styles/:** CSS stylesheets.
+- **api/:** API routes for server-side logic.
+- **utils/:** Utility functions and helpers.
+
+#### Getting Started
+**Prerequisites:**
+- Node.js
+- npm or yarn
+
+**Installation:**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jeevika5432/cycorp_trial.git
+   cd cycorp_trial
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open in Browser:
+   Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+#### Contributing
+We welcome contributions to enhance this project! Please follow these steps to contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add your commit message"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. Open a pull request detailing your changes.
+
+
+## Run
 
 First, run the development server:
 
@@ -32,19 +97,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-## Project Overview
-
-Cycorp Trial is a web application built using Next.js, demonstrating the framework's capabilities in server-side rendering (SSR) and static site generation (SSG). The project aims to showcase Next.js features such as dynamic routing, API routes, and pre-rendering. It includes components, pages, and API endpoints to illustrate how a Next.js application can be structured and developed for efficient and scalable web solutions.
-
-Features:
-
-Server-Side Rendering (SSR): Efficiently renders pages on the server for better SEO and initial load performance.
-
-Static Site Generation (SSG): Pre-renders pages at build time for fast delivery and improved performance.
-
-Dynamic Routing: Demonstrates the use of dynamic routing to create flexible and scalable page structures.
-
-API Routes: Includes API endpoints to handle server-side logic and data fetching, demonstrating Next.js's capabilities to create full-stack applications.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
