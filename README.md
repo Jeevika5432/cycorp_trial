@@ -40,8 +40,11 @@ Cycorp Trial is a web application built using Next.js, demonstrating the framewo
 Features:
 
 Server-Side Rendering (SSR): Efficiently renders pages on the server for better SEO and initial load performance.
+
 Static Site Generation (SSG): Pre-renders pages at build time for fast delivery and improved performance.
+
 Dynamic Routing: Demonstrates the use of dynamic routing to create flexible and scalable page structures.
+
 API Routes: Includes API endpoints to handle server-side logic and data fetching, demonstrating Next.js's capabilities to create full-stack applications.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
